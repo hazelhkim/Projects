@@ -1,4 +1,4 @@
-### Simulation Using Python: K-Means Cluster Analysis
+## Simulation Using Python: K-Means Cluster Analysis
 
 This project is for a cell phone company to establish its network by putting its towers in a particular region it has acquired. The location of these towers can be found by clustering (where data points are residence locations) so that all users receive optimum signal strength. Used numpy, matplotlib, K-means clustering.
 
