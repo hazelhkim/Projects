@@ -2,8 +2,7 @@
 title: "Project Proposal"
 author: Hazel Kim, Jennifer Cho, Binny Lee 
 output: html_document
-
-Final Report pdf File : https://db-lee.rstudio.cloud/3f3f96b795c043c0a316a76efdbcf96b/file_show?path=%2Fcloud%2Fproject%2FfinalReportPaper.pdf
+Project Report pdf File: https://drive.google.com/file/d/1zlDZhSwFjv74C3t6RmZcVJFihu_-WHWy/view?usp=sharing
 ---
 
 ```{r setup, include=FALSE}
