@@ -2,7 +2,9 @@
 
 ### What I worked on this week:
 
-- I built a neural network for analyzing the cookie recipes. The neural network included a sigmoid calculation to update the weights so that the multiple layers of nodes can apply them when they are training the network. The main method of training the neural network iss operated by the forward_pass_train() method, and the backpropagation() method is re-evaluating the error terms to minimize the hidden layer’s contribution to the error.
+- I built a neural network for analyzing the cookie recipes. 
+  - The neural network included a sigmoid calculation to update the weights so that the multiple layers of nodes can apply them when they are training the network. 
+  - The main method of training the neural network is operated by the forward_pass_train() method, and the backpropagation() method is re-evaluating the error terms to minimize the hidden layer’s contribution to the error.
 - In this project, I will build a pipeline in the end, based on the neural network. This pipeline will process real-world, user-supplied images — in my SIP, the cookie images. Given an image of a cookie, my algorithm would identify an estimate of the cookie’s type.
 
 
@@ -19,4 +21,4 @@
 ### Plan for next week:
 
 - Data Gathering 
-  — I will crawl all search results for a queried dish; in my SIP, it would be cookie recipes. I will determine one particular website that I will use for the recipe scheme, among several websites. 
+    — I will crawl all search results for a queried dish; in my SIP, it would be cookie recipes. I will determine one particular website that I will use for the recipe scheme, among several websites. 
