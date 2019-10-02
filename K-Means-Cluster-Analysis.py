@@ -4,8 +4,6 @@
 ##The location of these towers can be found by clustering (where data points are residence locations) 
 ##so that all users receive optimum signal strength. Used numpy, matplotlib, K-means clustering.
 
-
-```python
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
@@ -176,4 +174,4 @@ for n in range(iteration):
     cityOverallCenters = recalculateCenters(cityOverallCenters,clusterList)
 print("new centers:", cityOverallCenters)
 print("maximum and minimum distance:", maxMin)
-```
+
