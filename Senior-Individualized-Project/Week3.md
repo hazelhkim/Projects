@@ -20,7 +20,7 @@ data=pd.read_json(r"..\data\data\recipes.json",lines=True)
 
 ### Milestones to celebrate, or Obstacles encountered:
 
-- After testing for the multi-layer neural network, I realized the pipeline I built is not too narrow to result in meaningful output.
+- After testing for the multi-layer neural network, I realized the pipeline I built is too narrow to result in meaningful output.
 So, I decided to expand the recipe particularly from cookies to entire baking in general. The topic would be Christmas recipes.
 - I particulary decided to do research based on recipes from BBC website. 
 
